@@ -8,8 +8,10 @@ Instruction:
     pip install tkinter
     
     pip install pytube
+
+2:  Run Downloader.py
     
-2:  Paste the Link in the Input field
+3:  Paste the Link in the Input field
     
-3:  Have Fun!
+4:  Have Fun!
 
